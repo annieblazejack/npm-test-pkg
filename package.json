@@ -1,0 +1,11 @@
+{
+  "name": "is-hello",
+  "version": "1.0.1",
+  "description": "Is this string 'hello'?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Annie Blazejack <annieblazejack@gmail.com>",
+  "license": "ISC"
+}
